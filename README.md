@@ -16,4 +16,3 @@
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRmZWQ3MGd3enM0YXRmdmhvcms2bGRqcm9ucHFkbWloMnBtb2s3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lnv2VohQZinYs/giphy.gif" width="32"/> Github Stats from public repos
 
 <img alt="Ayzat Rizatdinov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dov4k1n&custom_title=languages&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px"/>
-<img alt="Ayzat Rizatdinov's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dov4k1n&custom_title=activity&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="192px"/>
